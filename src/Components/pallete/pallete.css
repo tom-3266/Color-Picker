@@ -1,0 +1,43 @@
+.main{
+  height: 70vh;
+  width: 80%;
+  border: 1px solid black;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  display: flex;
+}
+.color-pallete{
+  width: 80%;
+  height: 100%;
+}
+.input-form{
+  border-left: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 10px;
+}
+.form-control{
+  margin-top: 15px;
+}
+ .figure{
+  height: 10rem;
+  width: 10rem;
+  margin: 20px auto ;
+}
+.result{
+  text-align: center;
+  margin-top: 15px;
+}
+.btn{
+  background-color: yellow;
+  padding: 10px;
+  font-size: 15px;
+}
+input{
+  width: 80%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  font-size: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}

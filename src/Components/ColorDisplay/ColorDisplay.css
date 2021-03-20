@@ -1,0 +1,16 @@
+.colors {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  flex-wrap: wrap;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.colorSquare {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+  text-align: center;
+}
